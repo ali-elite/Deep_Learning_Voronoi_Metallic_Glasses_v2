@@ -1,0 +1,7 @@
+jupyter
+torch
+torchvision
+torchaudio
+torch_geometric
+pandas
+matplotlib
